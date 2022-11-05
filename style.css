@@ -21,7 +21,17 @@ h1{
 
 
 .news2:nth-child(2n) {
-    background-color: rgb(181, 181, 181);
+    background-color: rgb(219, 219, 219);
+}
+
+article .new::before {
+    content: 'New!';
+    color: red;
+    font-style: italic;
+    vertical-align: middle;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 10px;
 }
 
 article{

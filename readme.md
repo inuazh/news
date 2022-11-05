@@ -1,4 +1,4 @@
-# Project News site of the city of Ulyanovsk
+# Project News site
 
 Designed as a practical assignment on the course Skillfactory Web Dev
 
